@@ -18,9 +18,6 @@ https://tvpass.org/live/WCBSDT1/hd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (1080p)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC New York News
 https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 
