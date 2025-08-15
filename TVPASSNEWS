@@ -109,7 +109,7 @@ https://tvpass.org/live/CNN/hd
 #EXTINF:-1 tvg-name="The Weather Channel HD" tvg-id="the-weather-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="News",The Weather Channel HD
 https://tvpass.org/live/TheWeatherChannel/hd
 
-#EXTINF:-1 tvg-name="VICE HD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TVPass",VICE HD
+#EXTINF:-1 tvg-name="VICE HD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="News",VICE HD
 https://tvpass.org/live/VICETV/hd
 
 
@@ -131,8 +131,6 @@ https://tvpass.org/live/CBSSportsNetworkUSA/hd
 
 #EXTINF:-1 tvg-name="Cinemax Eastern Feed HD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="TVPass",Cinemax Eastern Feed HD
 https://tvpass.org/live/CinemaxEast/hd
-
-
 
 #EXTINF:-1 tvg-name="Destination America HD" tvg-id="destination-america" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="TVPass",Destination America HD
 https://tvpass.org/live/DestinationAmerica/hd
